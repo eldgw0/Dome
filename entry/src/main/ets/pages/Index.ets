@@ -29,7 +29,7 @@ class Statlnfo {
   //没有链接后端先传自定义数据
 }
 
-@Entry
+// @Entry
 @Component
 struct Index {
   // @State stateInfo_1: Statlnfo = new Statlnfo(5,3)
@@ -48,6 +48,7 @@ struct Index {
     .backgroundColor(Color.Black)
   }
 }
+// @Preview
 @Component
 struct TaskStatistics {
   @Consume stateInfo : Statlnfo
