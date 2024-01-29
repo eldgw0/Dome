@@ -1,6 +1,9 @@
 {
   "src": [
     "pages/Index",
-    "pages/Page"
+    "pages/Page",
+    "pages/wangluo",
+    "pages/columnrow",
+    "pages/home"
   ]
 }
